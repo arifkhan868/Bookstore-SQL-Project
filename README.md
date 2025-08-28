@@ -90,6 +90,12 @@ Queries are organized into two categories:
 
 - Extracting actionable business insights from data
 
+---
 
+## 🧑‍💻 Author
+
+## 👤 Ariful Islam
+
+Gmail: arifkhan.nsd14@gmail.com
 
 
