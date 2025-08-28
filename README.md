@@ -77,6 +77,18 @@ Queries are organized into two categories:
 
 - Pricing Insights → Compare average prices by genre
 
+---
+## 🧑‍🎓 Key Learnings
+
+- Writing clean SQL queries
+
+- Performing aggregations with GROUP BY and HAVING
+
+- Using JOIN to connect multiple tables
+
+- Handling null values with COALESCE
+
+- Extracting actionable business insights from data
 
 
 
