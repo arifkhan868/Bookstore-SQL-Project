@@ -22,3 +22,12 @@ Queries are organized into two categories:
 - Basic Queries – Fundamental SQL operations
 
 - Advanced Queries – Analytics and insights with joins & aggregates
+
+---
+## 🛠️ Technologies Used
+
+- Database: PostgreSQL (queries are also compatible with MySQL/SQLite)
+
+- Tools: DBeaver / pgAdmin / Tableplus
+
+- SQL Functions: SUM(), COUNT(), AVG(), COALESCE(), DATE_TRUNC(), HAVING
