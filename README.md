@@ -31,3 +31,53 @@ Queries are organized into two categories:
 - Tools: DBeaver / pgAdmin / Tableplus
 
 - SQL Functions: SUM(), COUNT(), AVG(), COALESCE(), DATE_TRUNC(), HAVING
+
+---
+
+ 🔹 Example Queries
+## ✅ Basic Queries
+
+- Retrieve all books in the Fiction genre
+
+- Find books published after 1950
+
+- List all customers from Canada
+
+- Show orders placed in November 2023
+
+- Find the most expensive book
+
+- Calculate total revenue from all orders
+
+## 🚀 Advanced Queries
+
+- Total books sold per genre
+
+- Average book price of Fantasy genre
+
+- Customers with at least 2 orders
+
+- Most frequently ordered book
+
+- Top 3 most expensive Fantasy books
+
+- Remaining stock after fulfilling all orders
+
+- Customers who spent more than $30
+
+---
+
+## 📊 Business Insights from Queries
+
+- Inventory Management → Find remaining stock after sales
+
+- Customer Insights → Identify top spenders & frequent buyers
+
+- Sales Analysis → Revenue trends by genre & author
+
+- Pricing Insights → Compare average prices by genre
+
+
+
+
+
